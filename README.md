@@ -7,4 +7,5 @@ CryptoVarna is an independent organization promoting and advocating the blockcha
 ## Contacts
 
 [cryptovarna.com](https://cryptovarna.com)
+
 [Email](mailto:info@cryptovarna.com)
